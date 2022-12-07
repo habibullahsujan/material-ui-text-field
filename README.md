@@ -1,1 +1,1 @@
-![Screenshot](https://i.ibb.co/8465Lws/chrome-EG9-It9-WXV2.png)
+![Screenshot](https://i.ibb.co/XznVrQp/MD0-Klt-JZIY.png)
