@@ -1,11 +1,9 @@
-/* .MuiOutlinedInput-root.Mui-focused.MuiOutlinedInput-notchedOutline {
-  border: 3px solid #d13b9a !important
-} */
 
-/* .MuiOutlinedInput-root {
-  border: 3px solid #d13b9a !important;
+
+.MuiOutlinedInput-notchedOutline{
+  border:2px solid #1d72e7 !important
 }
 
-.fieldset{
-  border: 3px solid #d13b9a !important;
-} */
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border:6px solid #9cbdeb !important
+}
